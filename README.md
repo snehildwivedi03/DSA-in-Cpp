@@ -145,4 +145,10 @@ This repository provides a structured and systematic approach to learning Data S
 - Tackle the projects at the end of the roadmap to apply your knowledge in real-world scenarios.
 - Review the code regularly to enhance optimization and coding best practices.
 
+## Note
+
+- Do note rely on the questions that are provided in this roadmap. This roadmap will help you to go through the topics.
+
+- For more practice you can use any coding platform like gfg, leetcode, codeforces.(Recommended)
+
 Good luck on your DSA journey!
