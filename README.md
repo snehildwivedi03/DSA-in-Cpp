@@ -1,154 +1,197 @@
-# 90-Day DSA Roadmap for C++ Programming and Problem Solving
+# C++ DSA Roadmap
 
-## Overview
+This repository is designed to help you master Data Structures and Algorithms (DSA) using C++. It provides a detailed week-wise and day-wise plan to improve your problem-solving skills, with focus on understanding the fundamentals, intermediate concepts, advanced algorithms, and project development. Each day contains theoretical concepts followed by practical problems for better understanding.
 
-This repository provides a structured and systematic approach to learning Data Structures and Algorithms (DSA) using C++. The goal is to help you improve your problem-solving skills and prepare for technical job interviews with a daily commitment to learning. The roadmap is divided into week-wise and day-wise plans, with specific topics and problems to solve, ranging from basic to advanced levels.
+## Table of Contents
+1. [Week 1-2: Basics and Fundamentals](#week-1-2-basics-and-fundamentals)
+2. [Week 3-4: Intermediate Concepts](#week-3-4-intermediate-concepts)
+3. [Week 5-6: Dynamic Programming and Backtracking](#week-5-6-dynamic-programming-and-backtracking)
+4. [Week 7-9: Advanced Algorithms](#week-7-9-advanced-algorithms)
+5. [Week 10-13: Revision and Project Work](#week-10-13-revision-and-project-work)
+6. [Project Work](#project-work)
+7. [Resources](#resources)
 
-## Approach to Solving DSA Problems
+## Week 1-2: Basics and Fundamentals
 
-1. **Understand the Problem**: Read the problem statement thoroughly. Identify the input, output, and constraints.
-2. **Plan**: Think about the logic or algorithm. Break down the problem into smaller parts.
-3. **Code**: Implement the solution in C++.
-4. **Test**: Run the code with different test cases, including edge cases.
-5. **Debug**: If the solution doesn't work, debug by checking for logical or syntax errors.
-6. **Optimize**: Once the solution works, think about optimizing it for better performance.
-7. **Time Allocation**: Spend no more than 60 minutes on a single problem. If unsolved, study the solution, understand the logic, and move on.
+### Day 1-7: Variables, Control Structures, Arrays, and Sorting Basics
 
----
+- **Day 1:** Variables, Data Types, and Operators  
+    **Problems:**
+    - Prime Number Check
+    - Palindrome Check
+    - Fibonacci Sequence
 
-## Week and Day Wise Roadmap
+- **Day 2:** Control Structures (if-else, loops)  
+    **Problems:**
+    - Sum of Natural Numbers
+    - Leap Year Check
+    - Reverse a Number
 
-### Week 1-2: Basics and Fundamental Concepts
+- **Day 3:** Functions and Recursion (Basics)  
+    **Problems:**
+    - Factorial using Recursion
+    - Sum of Digits (Recursion)
+    - Check Prime using Function
 
-**Topics to Study:**
+- **Day 4:** Arrays (Basics)  
+    **Problems:**
+    - Find Largest Element in Array
+    - Sum of Array Elements
+    - Linear Search
 
-- Variables, Data Types, and Operators
-- Control Structures (if-else, loops)
-- Functions and Recursion
-- Arrays and Strings
-- Basic Sorting (Bubble, Selection, Insertion)
-- Basic Searching (Linear, Binary)
+- **Day 5:** Sorting Algorithms (Bubble Sort, Selection Sort)  
+    **Problems:**
+    - Implement Bubble Sort
+    - Implement Selection Sort
+    - Find Duplicate Elements in Array
 
-**Daily Problem Solving:**
+- **Day 6:** Searching Algorithms (Linear Search, Binary Search)  
+    **Problems:**
+    - Implement Binary Search
+    - Find Missing Number in Array
+    - Count Frequency of Elements in Array
 
-- **Day 1-3** (Easy): Prime Number Check, Palindrome Check, Fibonacci Sequence
-- **Day 4-6** (Medium): Selection Sort, Binary Search, Reverse a String
-- **Day 7** (Hard): Recursion for Factorial, String Permutations, Insertion Sort
+- **Day 7:** Recursion (Harder)  
+    **Problems:**
+    - Recursion for Factorial (Hard)
+    - String Permutations (Hard)
+    - Insertion Sort (Medium)
 
----
+### Day 8-14: Strings, Sorting, and Searching
 
-### Week 3-4: Intermediate Concepts
+- **Day 8:** Strings (Basics)  
+    **Problems:**
+    - Check for Palindrome String
+    - Reverse a String
+    - Count Vowels and Consonants in String
 
-**Topics to Study:**
+- **Day 9:** Strings (Advanced)  
+    **Problems:**
+    - Longest Common Prefix
+    - Anagram Check
+    - Implement String Sorting
 
-- Pointers and References
-- Dynamic Memory Allocation
-- Structures and Unions
-- Linked Lists (Singly, Doubly)
-- Advanced Sorting (Merge Sort, Quick Sort)
-- Stack and Queue Basics
+- **Day 10-11:** Advanced Sorting Algorithms (Merge Sort, Quick Sort)  
+    **Problems:**
+    - Merge Sort
+    - Quick Sort
+    - Kth Smallest Element
 
-**Daily Problem Solving:**
-
-- **Day 1-3** (Easy): Array Rotation, Remove Duplicates from Array, Merge Two Sorted Arrays
-- **Day 4-6** (Medium): Merge Sort Implementation, Quick Sort Implementation, Stack Using Array
-- **Day 7** (Hard): Linked List Reversal, Detect Loop in Linked List, LRU Cache Implementation
-
----
-
-### Week 5-6: Advanced Data Structures
-
-**Topics to Study:**
-
-- Trees (Binary Trees, Binary Search Trees)
-- Tree Traversal (Inorder, Preorder, Postorder)
-- Graphs (Representation, Traversal)
-- Hashing
-- Heaps and Priority Queues
-
-**Daily Problem Solving:**
-
-- **Day 1-3** (Easy): Height of Binary Tree, Inorder Traversal, BFS of Graph
-- **Day 4-6** (Medium): Level Order Traversal, Dijkstra’s Algorithm, Heap Sort
-- **Day 7** (Hard): Minimum Spanning Tree, Topological Sort, Median in a Stream
-
----
-
-### Week 7-8: Dynamic Programming and Advanced Algorithms
-
-**Topics to Study:**
-
-- Basic DP Concepts (Memoization, Tabulation)
-- Common DP Problems (Knapsack, Coin Change)
-- Backtracking
-- Bit Manipulation
-
-**Daily Problem Solving:**
-
-- **Day 1-3** (Easy): Fibonacci with DP, Subset Sum Problem, Count Ways to Reach Nth Step
-- **Day 4-6** (Medium): Longest Common Subsequence, Coin Change Problem, N-Queens Problem
-- **Day 7** (Hard): Traveling Salesman Problem, Maximum Subarray Sum (Kadane’s), Longest Increasing Subsequence
+- **Day 12-14:** Pointers, Dynamic Memory Allocation, and Linked Lists  
+    **Problems:**
+    - Array using Pointers
+    - Dynamic Memory Allocation
+    - Linked List Implementations (Insert, Delete, Reverse, Merge)
 
 ---
 
-### Week 9-10: Advanced Topics and Problem Solving
+## Week 3-4: Intermediate Concepts
 
-**Topics to Study:**
+### Day 15-21: Stacks, Queues, Trees
+- **Day 15-18:** Stacks and Queues (Arrays, Linked Lists)  
+    **Problems:**
+    - Implement Stack and Queue
+    - Balanced Parentheses
+    - Sliding Window Maximum
 
-- Advanced Graph Algorithms (Floyd-Warshall, Bellman-Ford)
-- String Algorithms (KMP, Rabin-Karp)
-- Greedy Algorithms
-- Divide and Conquer
+- **Day 19-21:** Binary Trees and Binary Search Trees (BST)  
+    **Problems:**
+    - Binary Tree Implementation (Insert, Delete)
+    - Preorder, Postorder, and Level Order Traversal
+    - Check if Tree is Balanced
 
-**Daily Problem Solving:**
+### Day 22-28: Graphs, Hashing, and Heaps
 
-- **Day 1-3** (Easy): Minimum Spanning Tree (Prim’s), KMP Algorithm, Activity Selection Problem
-- **Day 4-6** (Medium): Bellman-Ford Algorithm, Rabin-Karp Algorithm, Job Sequencing Problem
-- **Day 7** (Hard): Floyd-Warshall Algorithm, Edit Distance, Maximum Product Subarray
+- **Day 22-23:** Graphs  
+    **Problems:**
+    - BFS, DFS of Graph
+    - Shortest Path (Dijkstra’s)
+    - Detect Cycle in Graph
 
----
+- **Day 24-25:** Hashing  
+    **Problems:**
+    - Implement Hash Table
+    - Two Sum Problem
+    - Longest Consecutive Sequence
 
-### Week 11-12: Revision and Mock Interviews
+- **Day 26-27:** Heaps and Priority Queue  
+    **Problems:**
+    - Implement Min Heap and Max Heap
+    - Merge K Sorted Lists
+    - Find Kth Largest Element in Array
 
-**Topics to Study:**
-
-- Revision of all topics
-- Mock interview problems
-- System design basics (if time permits)
-
-**Daily Problem Solving:**
-
-- **Day 1-3** (Easy): Review and solve previous easy problems
-- **Day 4-6** (Medium): Review and solve previous medium problems
-- **Day 7** (Hard): Review and solve previous hard problems
-
----
-
-## Projects to Develop Using C++
-
-1. **Library Management System**:
-   - **Concepts Covered**: File handling, Classes and Objects, Linked Lists
-   - **Description**: Implement a system to manage books, students, and transactions (issue/return).
-2. **Bank Management System**:
-   - **Concepts Covered**: Classes and Objects, Inheritance, Polymorphism
-   - **Description**: Implement a system to manage customer accounts, deposits, withdrawals, and balance checks.
-3. **Hospital Management System**:
-   - **Concepts Covered**: File handling, Classes and Objects, Data Structures (Queues for patient management)
-   - **Description**: Implement a system to manage patients, doctors, and appointments.
+- **Day 28:** Revision of all topics covered so far
 
 ---
 
-## How to Use This Repository
+## Week 5-6: Dynamic Programming and Backtracking
 
-- Follow the week-wise and day-wise structure to gradually improve your DSA knowledge and C++ skills.
-- Solve daily problems and commit your solutions.
-- Tackle the projects at the end of the roadmap to apply your knowledge in real-world scenarios.
-- Review the code regularly to enhance optimization and coding best practices.
+### Day 29-35: Dynamic Programming (DP)
+- **Problems:**
+    - Fibonacci Sequence using DP
+    - Longest Common Subsequence
+    - Knapsack Problems
+    - Maximum Subarray Sum
+    - Longest Increasing Subsequence
 
-## Note
+### Day 36-42: Backtracking
+- **Problems:**
+    - N-Queens Problem
+    - Sudoku Solver
+    - Rat in a Maze Problem
+    - Word Search
+    - Permutation Generation
 
-- Do note rely on the questions that are provided in this roadmap. This roadmap will help you to go through the topics.
+---
 
-- For more practice you can use any coding platform like gfg, leetcode, codeforces.(Recommended)
+## Week 7-9: Advanced Algorithms
 
-Good luck on your DSA journey!
+### Day 43-49: Greedy Algorithms
+- **Problems:**
+    - Activity Selection Problem
+    - Fractional Knapsack Problem
+    - Huffman Coding
+
+### Day 50-56: Divide and Conquer
+- **Problems:**
+    - Median of Two Sorted Arrays
+    - Advanced Divide and Conquer Problems
+
+---
+
+## Week 10-13: Revision and Project Work
+
+### Day 57-70: Revision of Advanced Topics
+- Focus on solving complex problems (graph theory, DP, backtracking, and others).
+- Practice mock interviews and coding challenges from LeetCode, CodeForces, or HackerRank.
+
+### Day 71-80: Project Work
+- **Project 1:** Library Management System using OOP concepts.
+- **Project 2:** Online Banking System with a focus on user interaction and security features.
+- **Project 3:** Student Database System to practice database management.
+
+### Day 81-90: Final Revision and Mock Interviews
+- Focus on unsolved problems, key topic revision, and mock interview preparation.
+
+---
+
+## Project Work
+
+1. **Library Management System**  
+   Build a console-based application to manage books, users, and transactions using Object-Oriented Programming (OOP) principles.
+
+2. **Online Banking System**  
+   Develop a system for banking operations that ensures user interaction and basic security measures like PIN encryption.
+
+3. **Student Database System**  
+   Implement a student information management system to perform CRUD (Create, Read, Update, Delete) operations with a focus on database handling and security.
+
+---
+
+## Resources
+
+- [GeeksforGeeks](https://www.geeksforgeeks.org/)
+- [LeetCode](https://leetcode.com/)
+- [CodeForces](https://codeforces.com/)
+- [HackerRank](https://www.hackerrank.com/)
+- [C++ Documentation](https://cplusplus.com/)
