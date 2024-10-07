@@ -1,6 +1,6 @@
-# C++ DSA Roadmap
+# 90 Day C++ DSA Roadmap
 
-This repository is designed to help you master Data Structures and Algorithms (DSA) using C++. It provides a detailed week-wise and day-wise plan to improve your problem-solving skills, with focus on understanding the fundamentals, intermediate concepts, advanced algorithms, and project development. Each day contains theoretical concepts followed by practical problems for better understanding.
+This repository is designed to help you cover essential topics for Data Structures and Algorithms (DSA) using C++. It provides a detailed week-wise and day-wise plan to improve your problem-solving skills, with focus on understanding the fundamentals, intermediate concepts, advanced algorithms, and project development. Each day contains theoretical concepts followed by practical problems for better understanding.
 
 ## Table of Contents
 1. [Week 1-2: Basics and Fundamentals](#week-1-2-basics-and-fundamentals)
