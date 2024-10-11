@@ -2,6 +2,10 @@
 
 This repository is designed to help you cover essential topics for Data Structures and Algorithms (DSA) using C++. It provides a detailed week-wise and day-wise plan to improve your problem-solving skills, with focus on understanding the fundamentals, intermediate concepts, advanced algorithms, and project development. Each day contains theoretical concepts followed by practical problems for better understanding.
 
+Note: After the completion of this roadmap it is recommended that solve more questions in DSA on platforms like LeetCode, Code Forces, GeeksForGeeks for better implementations of the concepts.
+
+Happy Coding :)
+
 ## Table of Contents
 1. [Week 1-2: Basics and Fundamentals](#week-1-2-basics-and-fundamentals)
 2. [Week 3-4: Intermediate Concepts](#week-3-4-intermediate-concepts)
