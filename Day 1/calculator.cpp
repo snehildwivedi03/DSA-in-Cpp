@@ -12,6 +12,10 @@ if(b==0 && op=='/'){
   cout<<"Cannot divide by 0";
   exit(0);
 }
+/*
+Using switch for implementatiion of basic calculator
+We can use if else for this implementation
+*/
  switch(op){
   case'+' :
   cout<<a<<" + "<<b<<" = "<<a+b<<endl;
