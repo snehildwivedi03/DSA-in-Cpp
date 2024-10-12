@@ -34,7 +34,7 @@ int main() {
     cin >> numTerms;
 
     if (numTerms >= 0) {
-        int result = fibonacci(numTerms);
+       
         cout << "Fibonacci sequence: ";
         for (int i = 0; i <= numTerms; i++) {
             cout << fibonacci(i) << " ";
